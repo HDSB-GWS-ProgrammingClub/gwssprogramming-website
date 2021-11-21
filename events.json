@@ -1,11 +1,28 @@
 [
     {
+        "title": "Hash Code",
+        "type": "Programming Competition",
+        "hosts": "Google",
+        "date": "Registration: January 5, 2022",
+        "url": "https://codingcompetitions.withgoogle.com/hashcode",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png"
+    },
+    {
         "title": "DeltaHacks",
         "type": "Hackathon",
         "hosts": "McMaster University",
         "date": "January 14-16, 2022",
         "url": "https://www.deltahacks.com",
+        "note": "Applications are now open",
         "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/742/839/datas/original.png"
+    },
+    {
+        "title": "Kick Start",
+        "type": "Programming Competition",
+        "hosts": "Google",
+        "date": "Registration: February 1, 2022",
+        "url": "https://codingcompetitions.withgoogle.com/kickstart",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png"
     },
     {
         "title": "U of T Hacks",
@@ -41,12 +58,28 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ryerson_University_-_2016_school_year_logo.svg/2298px-Ryerson_University_-_2016_school_year_logo.svg.png"
     },
     {
+        "title": "Code Jam",
+        "type": "Programming Competition",
+        "hosts": "Google",
+        "date": "Registration: March 1, 2022",
+        "url": "https://codingcompetitions.withgoogle.com/codejam",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png"
+    },
+    {
         "title": "Halton Hacks",
         "type": "Hackathon",
         "hosts": "Garth Webb Programming Club",
         "date": "March 13-15, 2022",
         "url": "https://halton-hacks.github.io/",
         "image": "https://halton-hacks.github.io/images/haltonhacks_logo.png"
+    },
+    {
+        "title": "RBC Summer Tech Labs",
+        "type": "Internship Opportunity",
+        "hosts": "RBC",
+        "date": "Summer 2022 (Applications: March 1-21, 2022)",
+        "url": "https://www.rbc.com/dms/enterprise/futurelaunch/rbc-summer-tech-labs.html",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/RBC_Royal_Bank.svg/1200px-RBC_Royal_Bank.svg.png"
     },
     {
         "title": "Euclid",
