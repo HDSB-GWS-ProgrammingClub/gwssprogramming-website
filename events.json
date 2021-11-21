@@ -1,0 +1,77 @@
+[
+    {
+        "title": "DeltaHacks",
+        "type": "Hackathon",
+        "hosts": "McMaster University",
+        "date": "January 14-16, 2022",
+        "url": "https://www.deltahacks.com",
+        "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/742/839/datas/original.png"
+    },
+    {
+        "title": "U of T Hacks",
+        "type": "Hackathon",
+        "hosts": "University of Toronto",
+        "date": "February 4-6, 2022",
+        "url": "https://uofthacks.com",
+        "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/907/425/datas/original.png"
+    },
+    {
+        "title": "Canadian Computing Competition",
+        "type": "Programming Competition",
+        "hosts": "University of Waterloo",
+        "date": "February 16, 2022",
+        "url": "https://www.google.com/url?q=https://cemc.uwaterloo.ca/contests/computing.html&sa=D&source=editors&ust=1637472097696000&usg=AOvVaw1e5Zm3LzMjiBWEn6c-CM69",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
+    },
+    {
+        "title": "Pascal/Cayley/Fermat",
+        "type": "Math Competition",
+        "hosts": "University of Waterloo",
+        "date": "February 23, 2022",
+        "url": "https://docs.google.com/document/d/13DrJZWpeXfyKDngZt5mvXVm9UXnU03CceFE8WXjNE5w/edit?usp=sharing",
+        "note": "Grade 9: Pascal, Grade 10: Cayley, Grade 11: Fermat",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
+    },
+    {
+        "title": "CanHack",
+        "type": "Cybersecurity Competition",
+        "hosts": "Ryerson University",
+        "date": "February 2022",
+        "url": "https://dmz.ryerson.ca/canhack/",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ryerson_University_-_2016_school_year_logo.svg/2298px-Ryerson_University_-_2016_school_year_logo.svg.png"
+    },
+    {
+        "title": "Halton Hacks",
+        "type": "Hackathon",
+        "hosts": "Garth Webb Programming Club",
+        "date": "March 13-15, 2022",
+        "url": "https://halton-hacks.github.io/",
+        "image": "https://halton-hacks.github.io/images/haltonhacks_logo.png"
+    },
+    {
+        "title": "Euclid",
+        "type": "Math Competition",
+        "hosts": "University of Waterloo",
+        "date": "April 5, 2022",
+        "url": "https://docs.google.com/document/d/13DrJZWpeXfyKDngZt5mvXVm9UXnU03CceFE8WXjNE5w/edit?usp=sharing",
+        "note": "Grade 12",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
+    },
+    {
+        "title": "Fryer/Galois/Hypatia",
+        "type": "Math Competition",
+        "hosts": "University of Waterloo",
+        "date": "April 12, 2022",
+        "url": "https://docs.google.com/document/d/13DrJZWpeXfyKDngZt5mvXVm9UXnU03CceFE8WXjNE5w/edit?usp=sharing",
+        "note": "Grade 9: Fryer, Grade 10: Galois, Grade 11: Hypatia",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
+    },
+    {
+        "title": "ECOO Programming Contest",
+        "type": "Programming Competition",
+        "hosts": "ECOO",
+        "date": "May 2022",
+        "url": "https://ecoocs.org",
+        "image": "https://www.ecoocs.org/images/ecoologo.png"
+    }
+]
