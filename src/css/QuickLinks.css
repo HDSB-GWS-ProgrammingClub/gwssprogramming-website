@@ -1,6 +1,7 @@
 .quicklinks-imagelink, .quicklinks-textlink {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .quicklinks-imagelink a img {
@@ -19,17 +20,6 @@
     margin-top: 20px;
 }
 
-.quicklinks-textlink a {
-    border: 2px solid white;
-    border-radius: 10px;
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-    margin: 0 5px;
-    transition: 0.3s all;
-}
-
-.quicklinks-textlink a:hover {
-    background-color: white;
-    color: black;
+.quicklinks-textlink div {
+    margin-bottom: 20px;
 }

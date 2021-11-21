@@ -25,7 +25,7 @@ class ImageLink extends Component {
 class TextLink extends Component {
     render() {
         return (
-            <Button url={this.props.url} data-aos="zoom-out-down" data-aos-delay="1000" data-aos-duration="700">{this.props.children}</Button>
+            <Button url={this.props.url} data-aos="zoom-out-down" data-aos-delay="1000" data-aos-duration="700" data-aos-anchor="top-bottom">{this.props.children}</Button>
         );
     };
 };
