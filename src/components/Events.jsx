@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./../css/Events.css";
+import Button from "./Button";
 
 class Event extends Component {
     render() {
@@ -21,7 +22,7 @@ class Event extends Component {
                     {this.props.note ? (
                         <p>{this.props.note}</p>
                     ) : null}
-                    <a className="event-button" href={this.props.url} target="_blank" rel="noreferrer">More information</a>
+                    <Button url={this.props.url}>More information</Button>
                 </div>
 
             </div>
