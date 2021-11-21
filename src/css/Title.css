@@ -1,0 +1,20 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.title img {
+    height: 75px;
+    display: block;
+    margin: auto 0;
+    padding: 10px;
+}
+
+.title h1 {
+    font-size: 50px;
+    padding: 10px;
+}
+
+.intro {
+    text-align: center;
+}

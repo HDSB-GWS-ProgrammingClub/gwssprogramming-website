@@ -1,0 +1,41 @@
+.events {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.event-card {
+    display: flex;
+    background-color: rgba(165, 165, 165, 0.4);
+    padding: 20px;
+    margin: 20px;
+    width: 600px;
+    max-width: 80vw;
+    border-radius: 10px;
+}
+
+.event-card p {
+    font-size: 14px;
+}
+
+.event-card div img {
+    margin: 0;
+    width: 95px;
+    padding: 0 10px;
+}
+
+a.event-button {
+    background-color: rgb(48, 48, 48);
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 8px;
+    transition: 0.3s all;
+}
+
+a.event-button:hover {
+    background-color: white;
+    color: black;
+}

@@ -1,0 +1,30 @@
+.quicklinks-imagelink, .quicklinks-textlink {
+    display: flex;
+    justify-content: center;
+}
+
+.quicklinks-imagelink a img {
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 60px;
+    margin: 0 5px;
+    transition: 0.3s all;
+}
+
+.quicklinks-imagelink a img:hover {
+    background-color: white;
+}
+
+.quicklinks-textlink a {
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    transition: 0.3s all;
+}
+
+.quicklinks-textlink a:hover {
+    background-color: white;
+    color: black;
+}
