@@ -56,6 +56,7 @@
         "hosts": "Ryerson University",
         "date": "February 2022",
         "url": "https://dmz.ryerson.ca/canhack/",
+        "note": "Informations for CanHack 2022 has not yet been released. Check back here, or on our Google Classroom, for more information when it is available!",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ryerson_University_-_2016_school_year_logo.svg/2298px-Ryerson_University_-_2016_school_year_logo.svg.png"
     },
     {
@@ -106,6 +107,7 @@
         "hosts": "ECOO",
         "date": "May 2022",
         "url": "https://ecoocs.org",
+        "note": "Informations for ECOO 2022 has not yet been released. Check back here, or on our Google Classroom, for more information when it is available!",
         "image": "https://www.ecoocs.org/images/ecoologo.png"
     }
 ]
