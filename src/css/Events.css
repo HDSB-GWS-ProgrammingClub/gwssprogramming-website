@@ -5,7 +5,6 @@
 }
 
 .event-card {
-    display: flex;
     background-color: rgba(165, 165, 165, 0.4);
     padding: 20px;
     margin: 20px;
@@ -14,12 +13,30 @@
     border-radius: 10px;
 }
 
+.event-card h2, .event-card h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.event-card hr {
+    margin-bottom: 15px;
+}
+
+.event-card h3 {
+    font-size: 16px;
+}
+
 .event-card p {
     font-size: 14px;
 }
 
-.event-card div img {
+.event-card div.event-images {
+    display: flex;
+}
+
+.event-card div.event-images img {
     margin: 0;
-    width: 95px;
+    height: 15vw;
+    max-height: 75px;
     padding: 0 10px;
 }

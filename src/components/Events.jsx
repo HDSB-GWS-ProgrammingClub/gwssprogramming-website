@@ -10,17 +10,29 @@ class Event extends Component {
                 data-aos-duration="1200"
                 data-aos-anchor-placement="center-bottom"
             >
-                <div>
-                    <img src={this.props.image} alt="" />
+                <div className="event-images">
+                    {typeof this.props.image === "string" ? (
+                        <img src={this.props.image} alt="" />
+                    ) : (
+                        this.props.image.map((image, key) =>
+                            <img src={image} alt="" key={key} />
+                        )
+                    )}
                 </div>
-                <div style={{width: '100%'}}>
+                <div>
                     <h2>{this.props.title}</h2>
                     <h3>{this.props.hosts}</h3>
-                    <hr />
                     <h3>{this.props.type}</h3>
                     <h3>{this.props.date}</h3>
+                    <hr />
                     {this.props.note ? (
-                        <p>{this.props.note}</p>
+                        typeof this.props.note === "string" ? (
+                            <p>{this.props.note}</p>
+                        ) : (
+                            this.props.note.map((note, key) =>
+                                <p key={key}>{note}</p>
+                            )
+                        )
                     ) : null}
                     <Button url={this.props.url}>More information</Button>
                 </div>
