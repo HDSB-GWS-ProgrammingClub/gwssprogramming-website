@@ -1,5 +1,14 @@
 [
     {
+        "title": "Canadian Computing Competition",
+        "type": "Programming Competition",
+        "hosts": "University of Waterloo",
+        "date": "February 16, 2022",
+        "url": "https://classroom.google.com/c/MjM1Mjk3MjczNTUy/p/NDMzMTIyMzUyMTE3/details",
+        "note": "CCC signups for Garth Webb are here! Click the link below to see more information on Google Classroom.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
+    },
+    {
         "title": "Hash Code",
         "type": "Programming Competition",
         "hosts": "Google",
@@ -31,14 +40,6 @@
         "date": "February 4-6, 2022",
         "url": "https://uofthacks.com",
         "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/907/425/datas/original.png"
-    },
-    {
-        "title": "Canadian Computing Competition",
-        "type": "Programming Competition",
-        "hosts": "University of Waterloo",
-        "date": "February 16, 2022",
-        "url": "https://cemc.uwaterloo.ca/contests/computing.html",
-        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png"
     },
     {
         "title": "Pascal/Cayley/Fermat",
