@@ -63,6 +63,11 @@ export default class Events extends Component {
                         <Event key={key} image={event.image} title={event.title} hosts={event.hosts} type={event.type} date={event.date} url={event.url} note={event.note} />
                     )
                 ) : null}
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeErRk8JE0g7mS6TFtKH7pZJ_XieiQnfsLG5aoiDCCZ03LyPQ/viewform?embedded=true" width="800" height="500" title="Events" frameBorder="0"
+                    data-aos="fade-up"
+                    data-aos-duration="1200"
+                    data-aos-anchor-placement="center-bottom"
+                ></iframe>
             </div>
         );
     };
