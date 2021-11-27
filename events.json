@@ -126,14 +126,5 @@
             "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png",
             "https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/cemc_logo_blue_centred.png"
         ]
-    },
-    {
-        "title": "ECOO Programming Contest",
-        "type": "Programming Competition",
-        "hosts": "ECOO",
-        "date": "May 2022",
-        "url": "https://ecoocs.org",
-        "note": "Informations for ECOO 2022 has not yet been released. Check back here, or on our Google Classroom, for more information when it is available!",
-        "image": "https://www.ecoocs.org/images/ecoologo.png"
     }
 ]
