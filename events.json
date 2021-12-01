@@ -1,5 +1,21 @@
 [
     {
+        "title": "Guest Speaker: Professor and Director of Carleton's School of Computer Science",
+        "type": "Guest Speaker",
+        "date": "December 7, 2021",
+        "hosts": "Garth Webb Programming Club & Carleton University",
+        "url": "https://classroom.google.com/c/MjM1Mjk3MjczNTUy/p/MjI3MzMzMTc1Njgy/details",
+        "note": [
+            "On Tuesday December 7th in room 2039 at lunch, we have organized a guest speaker.",
+            "Michel Barbeau, a professor and director of Carleton's School of Computer Science will be joining us to talk about computer science and the faculty of CS at Carleton University.",
+            "If you have any questions you would like Prof. Barbeau to answer, please fill in the form linked below."
+        ],
+        "image": [
+            "https://gwssprogramming.netlify.app/static/media/gwpc_logo.908178a8.png",
+            "https://calareo.ca/wp-content/uploads/2021/09/B_Logo_H-RGBRedBlackonLight300_130821-e1631557701510.png"
+        ]
+    },
+    {
         "title": "Canadian Computing Competition",
         "type": "Programming Competition",
         "hosts": "University of Waterloo",
