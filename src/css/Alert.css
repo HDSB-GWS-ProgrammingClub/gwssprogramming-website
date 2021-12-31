@@ -1,0 +1,20 @@
+.alert {
+    background-color: red;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px 25px;
+    display: flex;
+}
+
+.alert p {
+    font-size: 16px;
+}
+
+.alert-close {
+    float: right;
+    cursor: pointer;
+}
+
+.alert a {
+    color: cyan;
+}
