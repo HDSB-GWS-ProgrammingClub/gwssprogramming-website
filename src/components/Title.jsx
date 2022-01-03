@@ -9,7 +9,9 @@ export default class Title extends Component {
             <>
                 <div>
                     <Alert>
-                        Ontario schools reopening after the winter break have been delayed 2 days, and will be opening on Jan. 5, 2022. For more information, <a href="https://news.ontario.ca/en/release/1001386/ontario-updating-public-health-measures-and-guidance-in-response-to-omicron" target="_blank" ref="noreferrer">click here</a>.
+                        The Ontario government has annnounced: "All publicly funded and private schools will move to remote learning starting January 5 until at least January 17, subject to public health trends and operational considerations." <a href="https://news.ontario.ca/en/release/1001394/ontario-temporarily-moving-to-modified-step-two-of-the-roadmap-to-reopen" target="_blank" rel="noreferrer">Click here</a> for more information.
+                        <br /><br />
+                        Check the club Google Classroom for updates on meetings during remote learning.
                     </Alert>
                 </div>
                 <div className="title">
