@@ -3,32 +3,32 @@
         "title": "Canadian Computing Competition",
         "type": "Programming Competition",
         "hosts": "University of Waterloo",
-        "date": "February 16, 2022",
+        "date": "Registration Deadline: January 31, 2022",
         "url": "https://classroom.google.com/c/MjM1Mjk3MjczNTUy/p/NDMzMTIyMzUyMTE3/details",
-        "note": "CCC signups for Garth Webb are here! Click the link below to see more information on Google Classroom.",
+        "note": [
+            "CCC signups for Garth Webb are here! Click the link below to see more information on Google Classroom.",
+            "This event will take place on: February 16, 2022"
+        ],
         "image": [
             "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png",
             "https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/cemc_logo_blue_centred.png"
         ]
     },
     {
-        "title": "Hash Code",
-        "type": "Programming Competition",
-        "hosts": "Google",
-        "date": "Registration: January 5, 2022",
-        "url": "https://codingcompetitions.withgoogle.com/hashcode",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png"
-    },
-    {
-        "title": "DeltaHacks",
-        "type": "Hackathon",
-        "hosts": "McMaster University",
-        "date": "January 14-16, 2022",
-        "url": "https://www.deltahacks.com",
-        "note": "Applications are now open",
+        "title": "Pascal/Cayley/Fermat",
+        "type": "Math Competition",
+        "hosts": "University of Waterloo",
+        "date": "Registration Deadline: January 31, 2022",
+        "url": "https://docs.google.com/document/d/18Bmh0ex0Tzoyp6VX6mln5uFxJkQyEyc-zU0ZjDwKadU/edit?usp=sharing",
+        "note": [
+            "Grade 9: Pascal",
+            "Grade 10: Cayley",
+            "Grade 11: Fermat",
+            "This event will take place on: February 22, 2022"
+        ],
         "image": [
-            "https://www.infodocket.com/wp-content/uploads/2020/04/2020-04-13_12-31-18.jpeg",
-            "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/742/839/datas/original.png"
+            "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png",
+            "https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/cemc_logo_blue_centred.png"
         ]
     },
     {
@@ -48,22 +48,6 @@
         "image": [
             "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png",
             "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/907/425/datas/original.png"
-        ]
-    },
-    {
-        "title": "Pascal/Cayley/Fermat",
-        "type": "Math Competition",
-        "hosts": "University of Waterloo",
-        "date": "February 23, 2022",
-        "url": "https://docs.google.com/document/d/13DrJZWpeXfyKDngZt5mvXVm9UXnU03CceFE8WXjNE5w/edit?usp=sharing",
-        "note": [
-            "Grade 9: Pascal",
-            "Grade 10: Cayley",
-            "Grade 11: Fermat"
-        ],
-        "image": [
-            "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png",
-            "https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/cemc_logo_blue_centred.png"
         ]
     },
     {
