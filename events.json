@@ -40,23 +40,12 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png"
     },
     {
-        "title": "U of T Hacks",
-        "type": "Hackathon",
-        "hosts": "University of Toronto",
-        "date": "February 4-6, 2022",
-        "url": "https://uofthacks.com",
-        "image": [
-            "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Utoronto_coa.svg/1200px-Utoronto_coa.svg.png",
-            "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/000/907/425/datas/original.png"
-        ]
-    },
-    {
         "title": "CanHack",
         "type": "Cybersecurity Competition",
         "hosts": "Ryerson University",
-        "date": "February 2022",
+        "date": "March 15-29 2022",
         "url": "https://dmz.ryerson.ca/canhack/",
-        "note": "Informations for CanHack 2022 has not yet been released. Check back here, or on our Google Classroom, for more information when it is available!",
+        "note": "Information on registration coming soon!",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ryerson_University_-_2016_school_year_logo.svg/2298px-Ryerson_University_-_2016_school_year_logo.svg.png"
     },
     {
