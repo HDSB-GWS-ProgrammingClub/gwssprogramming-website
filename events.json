@@ -1,43 +1,19 @@
 [
     {
-        "title": "Canadian Computing Competition",
-        "type": "Programming Competition",
-        "hosts": "University of Waterloo",
-        "date": "Registration Deadline: January 31, 2022",
-        "url": "https://classroom.google.com/c/MjM1Mjk3MjczNTUy/p/NDMzMTIyMzUyMTE3/details",
-        "note": [
-            "CCC signups for Garth Webb are here! Click the link below to see more information on Google Classroom.",
-            "This event will take place on: February 16, 2022"
-        ],
-        "image": [
-            "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png",
-            "https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/cemc_logo_blue_centred.png"
-        ]
-    },
-    {
         "title": "Pascal/Cayley/Fermat",
         "type": "Math Competition",
         "hosts": "University of Waterloo",
-        "date": "Registration Deadline: January 31, 2022",
+        "date": "February 22, 2022",
         "url": "https://docs.google.com/document/d/18Bmh0ex0Tzoyp6VX6mln5uFxJkQyEyc-zU0ZjDwKadU/edit?usp=sharing",
         "note": [
             "Grade 9: Pascal",
             "Grade 10: Cayley",
-            "Grade 11: Fermat",
-            "This event will take place on: February 22, 2022"
+            "Grade 11: Fermat"
         ],
         "image": [
             "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png",
             "https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/cemc_logo_blue_centred.png"
         ]
-    },
-    {
-        "title": "Kick Start",
-        "type": "Programming Competition",
-        "hosts": "Google",
-        "date": "Registration: February 1, 2022",
-        "url": "https://codingcompetitions.withgoogle.com/kickstart",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png"
     },
     {
         "title": "CanHack",
@@ -47,14 +23,6 @@
         "url": "https://dmz.ryerson.ca/canhack/",
         "note": "Information on registration coming soon!",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ryerson_University_-_2016_school_year_logo.svg/2298px-Ryerson_University_-_2016_school_year_logo.svg.png"
-    },
-    {
-        "title": "Code Jam",
-        "type": "Programming Competition",
-        "hosts": "Google",
-        "date": "Registration: March 1, 2022",
-        "url": "https://codingcompetitions.withgoogle.com/codejam",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png"
     },
     {
         "title": "RBC Summer Tech Labs",
