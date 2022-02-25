@@ -1,21 +1,5 @@
 [
     {
-        "title": "Pascal/Cayley/Fermat",
-        "type": "Math Competition",
-        "hosts": "University of Waterloo",
-        "date": "February 22, 2022",
-        "url": "https://docs.google.com/document/d/18Bmh0ex0Tzoyp6VX6mln5uFxJkQyEyc-zU0ZjDwKadU/edit?usp=sharing",
-        "note": [
-            "Grade 9: Pascal",
-            "Grade 10: Cayley",
-            "Grade 11: Fermat"
-        ],
-        "image": [
-            "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png",
-            "https://uwaterloo.ca/math/sites/ca.math/files/uploads/images/cemc_logo_blue_centred.png"
-        ]
-    },
-    {
         "title": "CanHack",
         "type": "Cybersecurity Competition",
         "hosts": "Ryerson University",
